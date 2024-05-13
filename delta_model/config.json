@@ -1,0 +1,17 @@
+{
+  "backbone_checkpoint_name": "MiniCPM-2B-sft-bf16",
+  "backbone_class": "MiniCPMForCausalLM",
+  "backbone_hash": "b5e6f57c264ec1fab9321b45218ce2f3",
+  "bottleneck_dim": 12,
+  "common_structure": null,
+  "delta_type": "adapter",
+  "exclude_modules": [
+    "lm_head"
+  ],
+  "modified_modules": [
+    "mlp"
+  ],
+  "non_linearity": "gelu_new",
+  "opendelta_version": "0.3.0",
+  "transformers_version": "4.40.1"
+}

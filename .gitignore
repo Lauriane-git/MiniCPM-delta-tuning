@@ -1,0 +1,6 @@
+.idea
+.venv
+mmlu
+gsm8k
+report/out
+MiniCPM-2B-sft-bf16

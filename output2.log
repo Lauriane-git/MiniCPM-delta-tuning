@@ -1,0 +1,3 @@
+INFO:root:Evaluating the performance of the delta tuned model
+INFO:root:Delta tuned model performance on the MMLU dataset: 0.524
+INFO:root:Delta tuned model performance on the GSM8k dataset: 0.584
